@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "reports": [
+    {
+      "auditId": "12b18aa3-bdca-49a3-b2cc-0999b526953c",
+      "iterationId": "25d1c205-cd82-4e21-a4ab-45446fab1164",
+      "path": "plan005-smoke/2026-10-08-token-12b18aa3-bdca-49a3-b2cc-0999b526953c-v1.pdf",
+      "sha256": "fef35bfe800e52ca1e0e09881027053bcc2936a967ca6d5011e60a507cabab1b",
+      "blobSha": "34b61af8278f301b0b478a9a6e42a39f751ab195",
+      "bytes": 53358,
+      "reviewedCommit": null,
+      "index": {
+        "reportDate": "2026-10-08",
+        "projectName": "Plan 005 Smoke Test",
+        "auditTitle": "Token",
+        "iterationNumber": 1,
+        "counts": {
+          "critical": 1,
+          "high": 1,
+          "medium": 0,
+          "low": 0,
+          "informational": 0
+        }
+      }
+    }
+  ]
+}
